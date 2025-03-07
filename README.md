@@ -1,28 +1,34 @@
 <h1 align="center">
 Hi, I'm Luis Tapia!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-  ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
-  
+<div align="center">
+  <img src="https://i.pinimg.com/originals/c8/7f/fb/c87ffbfdaade272b84e5a5f515c93436.gif">
+</div>
 
-  
-
-<img align="left" src="https://github.com/akaluizs/akaluizs/blob/main/gif's/1.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
-
-```
-I-am-akaluizs@github
--------------------------
-💻 Actually I'm studying Systems Engineering at Universidad de San Carlos de Guatemala.
-📚 Studying Engineering.
-📝 Main interests: Cybersecurity and Web Development.
-🌟 Main languages: Python, JavaScript
-🚩 Objective: Specialize in cybersecurity and create secure and efficient web applications.
-💖 Love-hate relationship with bugs and programming challenges.
-🎵 Love rap, lofi, and trap
-```
-
-<hr>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/akaluizs/akaluizs/blob/main/gif's/3.jpg" width="200"/>
+    </td>
+    <td>
+      <pre>
+I-am-akaluizs@github  
+-------------------------  
+💻 Actually I'm studying Systems Engineering at Universidad de San Carlos de Guatemala.  
+📚 Studying Engineering.  
+🌱 I’m currently learning ...
+  - Nest.js
+  - Rust
+📝 Main interests: Cybersecurity and Web Development.  
+🌟 Main languages: Python, JavaScript  
+🚩 Objective: Specialize in cybersecurity and create secure and efficient web applications.  
+💖 Love-hate relationship with bugs and programming challenges.  
+🎵 Love rap, lofi, and trap  
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ My Favorite Tools
 
@@ -71,3 +77,7 @@ I-am-akaluizs@github
 <h3>My GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akaluizs&show_icons=true&theme=dark&locale=en&layout=compact" alt="akaluizs" /></p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=akaluizs&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="akaluizs Github Stats">
+
+<h2 align="center">
+   I ❤ Open Source.
+</h2>

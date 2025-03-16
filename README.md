@@ -32,7 +32,7 @@ I-am-akaluizs@github
 
 ## 🛠️ My Favorite Tools
 
-### **🖥️ Languages**
+### **🖥️ Languages I Work With**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -44,6 +44,7 @@ I-am-akaluizs@github
 ---
 
 ### **🧰 Frameworks and Libraries**
+
 <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -60,6 +61,7 @@ I-am-akaluizs@github
 ---
 
 ### **🛠️ Software and Tools**
+
 <p>
     <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -73,11 +75,11 @@ I-am-akaluizs@github
 ---
 
 ### **💻 Operating Systems**
+
 <p>
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">
     <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white">
 </p>
-
 
 <h3>My GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akaluizs&show_icons=true&theme=dark&locale=en&layout=compact" alt="akaluizs" /></p>

@@ -23,11 +23,13 @@
 
 <br/>
 
+---
+
 ## About Me
 
 ```yaml
 Name: Luis Tapia
-Location: Guatemala City 🇬🇹
+Location: Guatemala City
 University: USAC - 6th Semester
 
 Interests:
@@ -52,53 +54,54 @@ Operating_Systems:
   - Arch Linux
 ```
 
-<br clear="right"/>
+<br/>
+
+---
 
 ## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=cs,python,go,js,java,rust,html,css&theme=dark&perline=8)](https://skillicons.dev)
 
-### 🧰 Frameworks & Tools
+<br/>
+
+### Frameworks & Tools
 [![My Skills](https://skillicons.dev/icons?i=dotnet,react,nodejs,nestjs,express,flask,django,tailwind,bootstrap&theme=dark&perline=9)](https://skillicons.dev)
 
-### 🔧 DevOps & Systems
+<br/>
+
+### DevOps & Systems
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,aws,linux,windows,arch&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
 
-## 📊 GitHub Stats
+<br/>
+
+---
+
+## GitHub Stats
 
 <div align="center">
   
-  <!-- Main Stats -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akaluizs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0E0F&title_color=00FF41&icon_color=39FF14&text_color=7CFC00&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=akaluizs&theme=chartreuse-dark&hide_border=true&background=0A0E0F&stroke=00FF41&ring=39FF14&fire=00FF41&currStreakLabel=39FF14&sideNums=7CFC00&sideLabels=7CFC00&dates=7CFC00" />
+  <img width="49%" src="https://github-readme-stats-black-omega-74.vercel.app/api?username=akaluizs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0E0F&title_color=00FF41&icon_color=39FF14&text_color=7CFC00&rank_icon=github" alt="GitHub Stats" />
+  
+  <img width="49%" src="https://streak-stats.demolab.com/?user=akaluizs&theme=chartreuse-dark&hide_border=true&background=0A0E0F" alt="GitHub Streak" />
   
   <br/><br/>
   
-  <!-- Most Used Languages -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaluizs&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0E0F&title_color=00FF41&text_color=7CFC00&langs_count=8&hide=jupyter%20notebook" />
+  <img width="49%" src="https://github-readme-stats-black-omega-74.vercel.app/api/top-langs/?username=akaluizs&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0E0F&title_color=00FF41&text_color=7CFC00&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
   
-  <!-- Activity Graph -->
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=akaluizs&theme=github-compact&bg_color=0A0E0F&color=00FF41&line=39FF14&point=7CFC00&area=true&hide_border=true" />
-  
-  <br/><br/>
-  
-  <!-- Detailed Metrics -->
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akaluizs&theme=github_dark" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=akaluizs&theme=github-compact&bg_color=0A0E0F&color=00FF41&line=39FF14&point=7CFC00&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
-## 🏆 GitHub Trophies
+<br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akaluizs&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
+---
 
-## 🐍 Contributions (Snake Animation)
+## Contributions
 
 <div align="center">
   <picture>
@@ -108,7 +111,11 @@ Operating_Systems:
   </picture>
 </div>
 
-## 📬 Contact
+<br/>
+
+---
+
+## Contact
 
 <div align="center">
   
@@ -118,4 +125,10 @@ Operating_Systems:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:39FF14,100:7CFC00&height=100&section=footer" width="100%"/>
+<br/>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:39FF14,100:7CFC00&height=100&section=footer" width="100%"/>
+</div>
